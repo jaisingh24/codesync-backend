@@ -76,4 +76,4 @@ A scalable real-time code collaboration backend built using **Spring Boot**, **J
 
 ## 👨‍💻 Author
 
-Built with ❤️ by Virat
+Jai Singh Katiyar
